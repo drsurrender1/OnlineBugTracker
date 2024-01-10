@@ -32,8 +32,6 @@ http://3.99.213.164:5000/
 | Email |   Password    |   Firstname    | LastName  |
 | :---:   | :---: | :---: | :---: |
 | admin@123.com | root   |    |     |
-| 123@gmail.com | password   | Nina   |   Ma  |
-| 456@gmail.com | password   | Yige   |   Cao |
 | 789@gmail.com | password   | Ashley   |  Ward   |
 | 125@gmail.com | password   | Eli   |  Jenkins   |
 | 285@gmail.com | password   | Luna   |   Bell  |
@@ -44,7 +42,7 @@ http://3.99.213.164:5000/
 
 You can login in these accounts and play with them, or you can create your own account.
 
-All postman API collections is in: https://github.com/Nina0917/backbug/blob/main/backbug.postman_collection.json
+All postman API collections is in: https://github.com/drsurrender1/OnlineBugTracker/blob/master/backbug.postman_collection.json
 
 Includes the following:
 
